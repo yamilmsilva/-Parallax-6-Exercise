@@ -7,7 +7,7 @@ Small exercise Landing Page with JAVASRIPT, CSS & HTML.
 ![App Screenshot](screenshot/SCR-20240328-twtn.jpeg)
 
 ## Demo
-[https://subgrid.netlify.app/](https://parallax-6.netlify.app/)
+[https://parallax-6.netlify.app/](https://parallax-6.netlify.app/)
 
 ## Note - Keep in mind
 i hope you will like and use it if you need it
